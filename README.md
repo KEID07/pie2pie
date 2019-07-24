@@ -6,11 +6,12 @@
 |  1.2 | Labels Position | Set the location of the label, the default is "auto".
 |  1.3 | Fonts | Set visual fonts, including label fonts, legend fonts, etc.
 |  1.4 | Border Width | Set the border line width, including the border of the pie chart, the connecting line, and the width of the legend border(if enabled).
-|  1.5 | Text Color | Set the visual text color, which applies to label text and legend text.
-|  1.6 | Theme Color | Sets the visual theme color that applies to the pie border, the legend border, and the connection line (if enabled)
-|  1.7 | Merge Smaller Values | If this item is turned on, the parts of the main pie chart that are divided into sub-pie charts will be merged as "Others".
-|  1.8 | Pull Others | Pull the "Others" fan from the main pie chart (make sure the "Merge Smaller Values" has been enabled).
-|  1.9 | Show Lines | Display the connection lines between the main pie chart and the sub-pie chart, which requires ensuring that the visual aspect ratio is 1:1.
+|  1.5 | Theme | Setting the theme color of pie chart.
+|  1.6 | Text Color | Set the visual text color, which applies to label text and legend text.
+|  1.7 | Border Color | Sets the visual theme color that applies to the pie border, the legend border, and the connection line (if enabled)
+|  1.8 | Merge Smaller Values | If this item is turned on, the parts of the main pie chart that are divided into sub-pie charts will be merged as "Others".
+|  1.9 | Pull Others | Pull the "Others" fan from the main pie chart (make sure the "Merge Smaller Values" has been enabled).
+|  1.10 | Show Lines | Display the connection lines between the main pie chart and the sub-pie chart, which requires ensuring that the visual aspect ratio is 1:1.
 |  2 | Show Legend | Show the legend for this visual.
 |  2.1 | Show Legend Border | Shows the outer border of the legend (hidden by default).
 |  2.2 | Background Color | Set the background color of the legend area.
